@@ -79,4 +79,12 @@
     border-style:solid;
     border-color:grey;
     border-width:thin;
+    border-radius: 3px;
+    background-color: rgb(221, 221, 221);
+}
+
+#navy{
+  color:white;
+  text-decoration: none;
+    
 }
