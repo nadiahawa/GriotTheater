@@ -1,0 +1,82 @@
+
+  .nav { 
+    width:100%;
+    position: absolute;
+    top: 0;
+    left:0;
+ }
+  
+  .banner { 
+      width:100%;
+      position:absolute;
+      top: 0;
+      margin-top: 30px;
+      min-width:100%;
+      margin:auto;
+      max-height: 50px;
+      
+    }
+  
+  .main { 
+      background-color:rgb(252, 252, 243);
+      width: 900px;
+
+     }
+#text{
+    text-align-last: right;
+}
+.footer{
+    background-color: rgb(0, 0, 0);
+    height: 5vh;
+    margin-top: 0px;
+    bottom:0;
+}
+.background-black{
+    background-color: black;
+}
+
+#pic{
+    display: block;
+    width:30%;
+    margin-top: 22px;
+    max-height: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.container{
+    margin-top:288px;
+}
+
+.month{
+
+    
+    
+}
+
+#ppl{
+    max-width: 150px;
+    max-height: 150px;
+}
+.row{
+    padding:10px;
+    border-bottom: solid;
+    border-color:grey;
+    border-width: thin;
+}
+
+#button{
+    max-width: 110px;
+    max-height: 40px;
+    color:white;
+    position: relative;
+    bottom: 0;
+    right: 0;
+
+}
+
+.april{
+    border-style:solid;
+    border-color:grey;
+    border-width:thin;
+}
